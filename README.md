@@ -1,1 +1,1 @@
-# OTUS_ML
+# OTUS ML-Basic-2024-08
