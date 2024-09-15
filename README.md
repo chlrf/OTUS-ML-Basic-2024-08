@@ -1,1 +1,1 @@
-# OTUS ML-Basic-2024-08
+# OTUS ML-Basic-2024-08 - Домашние задания
