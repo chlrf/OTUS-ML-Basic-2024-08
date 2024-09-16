@@ -6,8 +6,11 @@
 #   23456 -> 25436
 #   30789 -> 38709
 print('Задача 1/5')
-number = input("Введите 5-ти значное число:")
-print(str(number)[0], str(number)[3:0:-1], str(number[4]), sep='')
+while True:
+    number = input("Введите 5-ти значное число:")
+    if number.isdigit() and len(number) == 5:
+        print(str(number)[0], str(number)[3:0:-1], str(number[4]), sep='')
+        break
 
 
 # ============================================================================================================
