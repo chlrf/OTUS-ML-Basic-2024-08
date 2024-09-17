@@ -1,4 +1,3 @@
-from random import random
 
 print('Домашнее задание от 2024-09-11')
 # №1
