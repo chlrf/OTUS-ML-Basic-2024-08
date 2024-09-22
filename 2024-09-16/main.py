@@ -123,7 +123,7 @@ def is_prime_number(n):
 
 
 while True:
-    num = input("Введите целое положительное число: ")
+    num = input("Введите целое положительное число (для выхода из программы введите пустую строку): ")
     if num == '':
         break
     if num.isdigit():
